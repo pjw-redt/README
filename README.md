@@ -6,11 +6,11 @@
 
 <br/><br/>
 <h2>😊Introduction🙌</h2>
-[2016.03 ~ 2019.02] Yeouido Girls High School
+💕[2016.03 ~ 2019.02] Yeouido Girls High School
 <br/>
-[2021.03 ~ Now] Chung-Ang University Computer Science & Software Engineering
+💕[2021.03 ~ Now] Chung-Ang University Computer Science & Software Engineering
 <br/>
-[2021.05 ~ Now] Chung-Ang University Academic-Club "CAUtion" 부회장
+💕[2021.05 ~ Now] Chung-Ang University Academic-Club "CAUtion" 부회장
 
 
 <br/><br/>
