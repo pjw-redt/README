@@ -15,9 +15,9 @@
 
 <br/><br/>
 ## 🔥Studying📑
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAF?style=flat&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=PHP&logoColor=white"/>  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hackaday-1A1A1A?style=flat-square&logo=Hackaday&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAF?style=flat&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=PHP&logoColor=white"/>  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white"/>  <img src="https://img.shields.io/badge/Hackaday-1A1A1A?style=flat-square&logo=Hackaday&logoColor=white"/>  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 
 <br/><br/>
 ## ✨Club✨
