@@ -11,7 +11,9 @@
 <br/>
 💕[2021.03 ~ Now] Chung-Ang University Computer Science & Software Engineering
 <br/>
-💕[2021.05 ~ Now] Chung-Ang University Academic-Club "CAUtion" 부회장
+💕[2021.05 ~ 2022.12] Chung-Ang University Academic-Club "CAUtion" 부회장
+<br/>
+💕[2023.07 ~ Now] GoogleDeveloperStudentClubs(GDSC) Core-Member
 
 
 <br/><br/>
