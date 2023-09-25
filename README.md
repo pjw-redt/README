@@ -13,6 +13,8 @@
 <br/>
 💕[2021.05 ~ 2022.12] Chung-Ang University Academic-Club "CAUtion" 부회장
 <br/>
+💕[2022.12 ~ 2023.06] Chung-Ang University Academic-Club "CECOM" 운영진
+<br/>
 💕[2023.07 ~ Now] GoogleDeveloperStudentClubs(GDSC) Core-Member
 
 
@@ -28,7 +30,7 @@
 <br/>
 ✔️CECOM : Projects and Studies
 <br/>
-✔️ZeroPage : Chung-Ang University Academic Club
+✔️GDSC : Google Developer Student Clubs
 <br/>
 ✔️chAOS : Algorithmic study club
 
