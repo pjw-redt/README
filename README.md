@@ -1,7 +1,7 @@
 <div align=center> <h1>🐤Hello I'm Jiwoo ~ 🐤</h1> </div>
 
 <br/><br/>
-<!--[![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjw-redt)](https://github.com/pjw-redt/github-readme-stats)-->
+![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjw-redt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjw-redt&layout=compact&theme=)
 
