@@ -1,7 +1,6 @@
 <div align=center> <h1>🐤Hello I'm Jiwoo ~ 🐤</h1> </div>
 
 <br/><br/>
-![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjw-redt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjw-redt&layout=compact&theme=)
 
@@ -15,7 +14,9 @@
 <br/>
 💕[2022.12 ~ 2023.06] Chung-Ang University Academic-Club "CECOM" 운영진
 <br/>
-💕[2023.07 ~ Now] GoogleDeveloperStudentClubs(GDSC) Core-Member
+💕[2023.07 ~ 2024.08] GoogleDeveloperStudentClubs(GDSC) Core-Member
+<br/>
+💕[2023.07 ~ Now] CryptoLab 학부연구생
 
 
 <br/><br/>
@@ -31,6 +32,8 @@
 ✔️GDSC : Google Developer Student Clubs
 <br/>
 ✔️chAOS : Algorithmic study club
+<br/>
+✔️Devocean Young : SKT College Student Developers Club
 
 <br/><br/>
 [![Solved.ac
